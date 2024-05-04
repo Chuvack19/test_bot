@@ -1,0 +1,5 @@
+{
+  "url": "https://unite-gaming.com/",                        // required
+  "name": "Unite Gaming",                      // required
+  "iconUrl": "https://d1nhio0ox7pgb.cloudfront.net/_img/g_collection_png/standard/256x256/leaf.png",               // required
+}
